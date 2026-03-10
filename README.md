@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Qaiser 👋
 
-<!--
-**qaiserxd/qaiserxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer based in India. I develop apps, websites, and whatever else I can imagine. **If an idea pops in my head, I build it.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Stack
+* **Languages:** Python, JavaScript, Dart
+* **Frontend:** React, Tailwind, HTMX
+* **Backend:** FastAPI, Hono
+* **Mobile:** Flutter, Expo
+
+### 🧠 Current Focus
+I'm currently deep-diving into **AI and Machine Learning** to make my builds even smarter.
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](https://linkedin.com/in/qaiser.xd)
