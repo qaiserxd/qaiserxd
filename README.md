@@ -16,4 +16,4 @@ I'm currently deep-diving into **AI and Machine Learning** to make my builds eve
 ---
 
 ### 🤝 Let's Connect
-[LinkedIn](https://linkedin.com/in/qaiser.xd)
+[LinkedIn](https://linkedin.com/in/qaiserxd)
